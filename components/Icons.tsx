@@ -1,0 +1,45 @@
+import React from 'react';
+import { 
+  Search, MapPin, Phone, Globe, Shield, Activity, 
+  TrendingUp, AlertTriangle, Users, Mail, Loader2,
+  ChevronDown, ChevronRight, ExternalLink, Download,
+  BarChart3, Brain, Database, Layers,
+  Smartphone, Zap, Lock, Unlock, X, FileText, Filter,
+  Map, List, Languages, MessageSquare, Send, Copy, Check
+} from 'lucide-react';
+
+export const Icons = {
+  Search,
+  MapPin,
+  Phone,
+  Globe,
+  Shield,
+  Activity,
+  TrendingUp,
+  AlertTriangle,
+  Users,
+  Mail,
+  Loader: Loader2,
+  ChevronDown,
+  ChevronRight,
+  ExternalLink,
+  Download,
+  BarChart: BarChart3,
+  Brain,
+  Database,
+  Layers,
+  Smartphone,
+  Zap,
+  Lock,
+  Unlock,
+  X,
+  FileText,
+  Filter,
+  Map,
+  List,
+  Languages,
+  MessageSquare,
+  Send,
+  Copy,
+  Check
+};

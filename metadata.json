@@ -1,0 +1,7 @@
+{
+  "name": "MarketMapper AI",
+  "description": "A powerful AI-driven market research tool that uses Google Maps Grounding to extract detailed business intelligence, contact info, and AI-generated scores.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
